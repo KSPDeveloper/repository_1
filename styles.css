@@ -7,3 +7,13 @@ li
 {
     background-color: bisque;
 }
+
+h1{
+    font-size: 72px;
+    color:darkslategray
+}
+
+h2{
+    font-size: medium;
+    color: crimson;
+}
